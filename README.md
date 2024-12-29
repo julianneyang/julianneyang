@@ -14,6 +14,6 @@ developing more effective treatments for a wide range of diseases.
 - 💩 Previously, I worked on investigating the relationship between genetic risk for disease and the gut microbiome.
 - 🌱 I am enthusiastic about expanding my skillset to include other data modalities.
 - 👯 Feel free to connect with me on LinkedIn!
-- Other things about me: cat lady 🐱🐱 ▶️ sustainable living 🍃 hobbyist artist 🖌️ homebody 🏠 fighting spirit 💪
+- Other things about me: cat lady 🐱🐱 sustainable living 🍃 hobbyist artist 🖌️ homebody 🏠 fighting spirit 💪
 
 
