@@ -10,7 +10,7 @@ molecular processes that drive disease. This has great potential for identifying
 developing more effective treatments for a wide range of diseases.
 
 - 🔭 I'm currently having an awesome time working on ncRNA sequencing data as a postdoctoral fellow at Merck.
-- 💻 I'm best classified as a bioinformatics scientist. Right now, I'm excited about building scalable and reproducible workflows with Nextflow. I'm not that great at it yet, but I'm a speedy learner! 
+- 💻 I'm best classified as a bioinformatics scientist. Right now, I'm excited about building scalable and reproducible workflows with Nextflow, and about making bioinformatics analyses more accessible with RShiny.
 - 💩 Previously, I worked on investigating the relationship between genetic risk for disease and the gut microbiome.
 - 🌱 I am enthusiastic about expanding my skillset to include other data modalities.
 - 👯 Feel free to connect with me on LinkedIn!
