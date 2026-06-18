@@ -1,13 +1,8 @@
 ## Hi there 👋
 
-I'm Julianne. I am excited about the potential that bioinformatics holds for transforming the way we
-understand and approach research in the life sciences. Biologists are always producing data, generating
-large lists of proteins, genes, and microbes of interest. However, transforming these lists into a
-comprehensive understanding of critical pathways and processes driving disease has proven to be
-extremely challenging. By integrating multiple types of sequencing data, such as whole genome
-sequencing, RNA sequencing, and metagenomics sequencing, we can obtain a comprehensive view of the
-molecular processes that drive disease. This has great potential for identifying new therapeutic targets and
-developing more effective treatments for a wide range of diseases.
+I'm Julianne. I'm interested in understanding how host genetic variation shapes the gut microbiome and its functional outputs, and how these interactions contribute to disease susceptibility. 
+
+I am excited about the potential that bioinformatics holds for generating and prioritizing biological hypotheses from increasingly complex datasets. As sequencing technologies continue to expand our ability to measure biological systems, computational approaches help identify the genes, pathways, and microbial processes most worthy of deeper mechanistic investigation. Long term, I envision that disease-associated genetic variants may exist on a spectrum ranging from primarily host-driven to primarily microbiome-mediated. Understanding where variants fall along this spectrum could improve patient stratification and identify individuals most likely to benefit from microbiome-based therapeutics.
 
 - 🔭 I'm currently having an awesome time working on ncRNA sequencing data as a postdoctoral fellow at Merck.
 - 💻 I'm best described as a bioinformatics scientist. Right now, I'm excited about building scalable and reproducible workflows with Nextflow, and about making bioinformatics analyses more accessible with RShiny.
